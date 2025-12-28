@@ -239,26 +239,7 @@ interfered_state = interference.create_interference(
 # Visualize interference effects
 interference.visualize_interference(interfered_state)
 📚 Theoretical Background
-Published Research
-Preprint: arXiv:2403.xxxxx - "Quantum Collapse Learning: Single-Example Learning Through Quantum State Collapse Dynamics"
 
-Video: YouTube Demonstration - Live quantum learning visualization
-
-Blog: Medium Article - Intuitive explanation of breakthrough
-
-Citation
-If you use this software in research, please cite:
-
-bibtex
-@software{quantum_collapse_2024,
-  author = {Your Name},
-  title = {Quantum Collapse Learning System},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/YOUR_USERNAME/quantum-collapse-learning}}
-}
-Or use the CITATION.cff file in the paper/ directory.
 
 👥 Contributing
 We welcome contributions to this groundbreaking research! Here are key areas needing work:
@@ -346,3 +327,4 @@ arXiv: Follow the paper
 Transfer Learning	4	1	100%	1.082
 Generalization	3 unseen	N/A	66.7%	0.101-1.147
 Scientific Significance: Confidence values >1.0 demonstrate genuine quantum advantage through constructive interference - impossible in classical systems!
+
