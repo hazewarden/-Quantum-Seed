@@ -1,0 +1,3 @@
+[console_scripts]
+quantum-benchmark = experiments.benchmark:main
+quantum-demo = experiments.demo_simple:main

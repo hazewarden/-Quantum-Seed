@@ -1,0 +1,17 @@
+README.md
+setup.py
+core/__init__.py
+core/collapse_learner.py
+core/interference.py
+core/quantum_dynamics.py
+core/quantum_seed.py
+quantum_collapse_learn.egg-info/PKG-INFO
+quantum_collapse_learn.egg-info/SOURCES.txt
+quantum_collapse_learn.egg-info/dependency_links.txt
+quantum_collapse_learn.egg-info/entry_points.txt
+quantum_collapse_learn.egg-info/requires.txt
+quantum_collapse_learn.egg-info/top_level.txt
+tests/test_collapse_learner.py
+tests/test_interference.py
+tests/test_quantum_dynamics.py
+tests/test_quantum_seed.py
