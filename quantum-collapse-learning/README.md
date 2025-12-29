@@ -222,7 +222,9 @@ Hopfield networks and associative memory
 The search for more efficient learning algorithms
 
 <div align="center" style="margin-top: 50px; padding: 30px; background: linear-gradient(135deg, #0a0a1a 0%, #1a0a2a 100%); border-radius: 10px; border: 1px solid #00ff9d;"> <h2 style="color: #ff5500; text-shadow: 0 0 10px #ff5500;">THE CORE IDEA</h2> <p style="color: #88aaff; font-size: 18px; max-width: 800px; margin: 0 auto;"> "What if learning isn't about gradual optimization, but about instant pattern comprehension?<br> What if machines could understand from single examples like humans sometimes do?<br> This code explores that possibility." </p> <p style="color: #00ff9d; margin-top: 20px;"> <strong>No hype. No magic. Just a different approach to learning.</strong> </p> </div>
+
 <div align="center" style="margin-top: 40px; color: #88aaff; font-size: 14px;"> <p>Pattern Collapse Learning • State Transformation Research • Open Source ML Exploration</p> <p>Questions? Issues? Research ideas? Open an issue or start a discussion.</p> </div><style> /* Arc Raiders Color Theme */ body { background-color: #0a0a0a; color: #ffffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; } h1, h2, h3, h4 { font-weight: 700; letter-spacing: 0.5px; } code, pre { background-color: #1a1a2a !important; border: 1px solid #333344 !important; border-radius: 6px !important; color: #00ff9d !important; } pre { padding: 15px !important; overflow-x: auto !important; } strong { color: #ff5500; } a { color: #00ff9d; text-decoration: none; } a:hover { color: #ff0055; text-decoration: underline; } </style>
+
 
 
 
