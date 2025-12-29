@@ -203,14 +203,7 @@ Hybrid approaches: Combine with neural networks
 <span style="color: #ff5500">⚠️ HONEST DISCLAIMERS (Important)</span>
 <div style="background: #1a0a1a; padding: 20px; border-radius: 8px; border: 2px solid #ff0055; margin: 30px 0;"> <h3 style="color: #ff0055;">📝 WHAT THIS IS</h3> <ul style="color: #ccccff;"> <li>Early-stage research into alternative learning mechanisms</li> <li>Working implementation of state transformation learning</li> <li>Demonstrated single-example learning on synthetic patterns</li> <li>Open source exploration of a new ML paradigm</li> </ul><h3 style="color: #ff0055; margin-top: 20px;">🚫 WHAT THIS IS NOT</h3> <ul style="color: #ccccff;"> <li>Not production-ready AI</li> <li>Not actual quantum computing</li> <li>Not magic or supernatural</li> <li>Not proven at scale yet</li> <li>Not a replacement for established ML (yet)</li> </ul><h3 style="color: #ff0055; margin-top: 20px;">🎯 THE REAL PROMISE</h3> <p style="color: #00ff9d;"> If this scales, it could enable: instant learning from single examples, dramatically reduced data requirements, and a fundamentally different approach to machine intelligence. </p> </div>
 <span style="color: #00ff9d">📚 CITATION & ACKNOWLEDGMENTS</span>
-bibtex
-@software{pattern_collapse_learning_2024,
-  title = {Pattern Collapse Learning: State Transformation for Single-Example Learning},
-  author = {Researcher},
-  year = {2024},
-  url = {https://github.com/hazewarden/pattern-collapse-learning},
-  note = {Novel learning algorithm using state transformation instead of gradient descent}
-}
+
 Inspired by:
 
 Quantum mechanics metaphors (collapse, superposition)
@@ -224,3 +217,4 @@ The search for more efficient learning algorithms
 <div align="center" style="margin-top: 50px; padding: 30px; background: linear-gradient(135deg, #0a0a1a 0%, #1a0a2a 100%); border-radius: 10px; border: 1px solid #00ff9d;"> <h2 style="color: #ff5500; text-shadow: 0 0 10px #ff5500;">THE CORE IDEA</h2> <p style="color: #88aaff; font-size: 18px; max-width: 800px; margin: 0 auto;"> "What if learning isn't about gradual optimization, but about instant pattern comprehension?<br> What if machines could understand from single examples like humans sometimes do?<br> This code explores that possibility." </p> <p style="color: #00ff9d; margin-top: 20px;"> <strong>No hype. No magic. Just a different approach to learning.</strong> </p> </div>
 
 <div align="center" style="margin-top: 40px; color: #88aaff; font-size: 14px;"> <p>Pattern Collapse Learning • State Transformation Research • Open Source ML Exploration</p> <p>Questions? Issues? Research ideas? Open an issue or start a discussion.</p> </div>
+
