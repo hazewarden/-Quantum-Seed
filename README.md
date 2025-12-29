@@ -1,16 +1,14 @@
 🌌 Quantum Collapse Learning
-<div align="center">
+
 🚀 BREAKTHROUGH: Machine Learning From Single Examples Using Quantum Collapse Dynamics
 
     
 "What if I told you machine learning could work with just ONE example, not thousands?"
 
-
 ⚡ EFFICIENCY: 50% fewer learning events than examples needed
 💥 RESULT: 100% accuracy with quantum confidence >1.0 (beyond classical limits)
 
 
-</div>
 📖 Overview
 Quantum Collapse Learning (QCL) is a revolutionary learning paradigm that replaces gradual optimization with instantaneous quantum state collapse. Unlike classical ML that needs thousands of examples, QCL learns from single exposures by leveraging quantum superposition and collapse dynamics.
 
